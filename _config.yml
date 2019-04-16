@@ -1,0 +1,31 @@
+title: Tips de campamento
+email: your-email@domain.com
+description: A continuación explicaremos unos consejos útiles para tu viaje de campamento, entre los cuales están, los implementos necesarios que necesitas llevar contigo y otro accesorios que harán de tu viaje un experiencia placentera.
+
+baseurl: "/"
+url: http://keralahost.in/wilfredot
+google_adsense: Your-adsense-code
+
+markdown: kramdown
+
+name: Tips de campamento
+
+date: 2019-04-16 22:19:50 +0000
+permalink: /:year/:month/:day/:title
+
+logo: false
+sass:
+    load_paths:
+        - _sass
+        - bs
+paginate: 10
+adsid: ca-pub-8582082279264878
+domain_name: http://keralahost.in/wilfredot/
+google_analytics: UA-31XXXXXX-X
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+cover: 
+author_image: Robert Lopez
+
+author: wilfredot
